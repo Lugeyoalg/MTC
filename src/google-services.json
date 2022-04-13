@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1086125743732",
+    "firebase_url": "https://grabcab-dbd68-default-rtdb.firebaseio.com",
+    "project_id": "grabcab-dbd68",
+    "storage_bucket": "grabcab-dbd68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086125743732:android:a223922b14d9b8e872bb21",
+        "android_client_info": {
+          "package_name": "com.algtech.grabcab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086125743732-nvh3sgf19htd4l9lashdllsll893bea8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKLNchodQYA5JpQiwY6uu6KbTDLbTfVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086125743732-nvh3sgf19htd4l9lashdllsll893bea8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086125743732:android:1fd5291c6570404d72bb21",
+        "android_client_info": {
+          "package_name": "com.algtech.grabcabdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086125743732-nvh3sgf19htd4l9lashdllsll893bea8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKLNchodQYA5JpQiwY6uu6KbTDLbTfVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086125743732-nvh3sgf19htd4l9lashdllsll893bea8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
